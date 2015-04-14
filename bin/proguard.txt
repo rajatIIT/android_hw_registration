@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:7
+-keep class com.abhishek.registration.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:40
+-keepclassmembers class * { *** regComplete(...); }
+
